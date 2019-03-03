@@ -1,3 +1,5 @@
+# Fork自rootsongjc大佬的beautifulhugo仓库,针对自己的博客做了一些修改
+
 # Beautiful Hugo - A port of Beautiful Jekyll Theme
 
 ![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
